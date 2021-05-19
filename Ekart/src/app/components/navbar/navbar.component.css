@@ -1,0 +1,58 @@
+.nav-logo-img {
+    width: 110px;
+    margin: 12px 0px 0px 25px;
+}
+
+.location-logo {
+    width: 15px;
+    height: 18px;
+    margin-top: 10px;
+}
+
+nav ul li a .location-text {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul li a {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 12px;
+}
+
+nav ul li a span:first-child {
+    font-size: 12px;  
+}
+
+nav ul li a span:last-child {
+    font-size: 18px;
+    line-height: 12px;
+    font-weight: 500;
+}
+
+nav ul li form input {
+    width: 800px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    outline: none;
+    margin-left: 5px;
+}
+
+nav ul li form button {
+    margin-left: -9px;
+    border-left: none;
+    color: black;
+    border: 2px solid #febd69;
+    background-color: #febd69;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-right: 5px;
+}
+
+.nav2{
+    text-align: center; 
+    margin-top: 10px;
+
+}
